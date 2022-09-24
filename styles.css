@@ -1,0 +1,16 @@
+p {
+    font-family:"楷体";
+    color: rgb(3, 3, 3);
+  }
+
+.ext-box {
+  display: table;
+}
+.in-box {
+  font-family:"华文隶书";
+  color: #f8f523;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
